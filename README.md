@@ -10,4 +10,3 @@ I created a new master branch
 
 - Order
   - Order Summary
-  - ...
